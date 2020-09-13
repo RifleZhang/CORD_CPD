@@ -1,6 +1,5 @@
-# CORD_CPD
-Correlation-aware Change-point Detection via Graph Neural Networks
-
+# Correlation-aware Change-point Detection <br> via Graph Neural Networks 
+## Correlation-aware Dynamics Change-point Detection Model (CORD-CPD)
 Paper link: (To Be Added)
 
 CORD_CPD aims to detect abrupt changes in multivariate time series, including:  
